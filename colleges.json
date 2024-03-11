@@ -1,0 +1,202 @@
+{
+    "wx": [
+      "文学院",
+      "http://office.ls.zju.edu.cn/",
+      "as=985&t=2651&d=11940&p=1&m=SN&"
+    ],
+    "ls": [
+      "历史学院",
+      "https://ls.zju.edu.cn/main.htm",
+      "as=983&t=2645&d=11924&p=1&m=SN&"
+    ],
+    "philosophy": [
+      "哲学学院",
+      "http://www.philosophy.zju.edu.cn/",
+      "as=981&t=2634&d=11889&p=1&m=SN&"
+    ],
+    "sis": [
+      "外国语学院",
+      "http://www.sis.zju.edu.cn/sischinese/",
+      "as=285&t=998&d=4102&p=1&m=SN&"
+    ],
+    "cmic": [
+      "传媒与国际文化学院",
+      "http://www.cmic.zju.edu.cn/",
+      "as=205&t=1559&d=6325&p=1&m=SN&"
+    ],
+    "soaa": [
+      "艺术与考古学院",
+      "http://www.soaa.zju.edu.cn/",
+      "as=552&t=1446&d=5875&p=1&m=SN&"
+    ],
+    "cec": [
+      "经济学院",
+      "http://www.cec.zju.edu.cn/",
+      "as=206&t=1637&d=6552&p=1&m=SN&"
+    ],
+    "ghls": [
+      "光华法学院",
+      "http://www.ghls.zju.edu.cn/ghlsbg/",
+      "as=311&t=790&d=3294&p=1&m=SN&"
+    ],
+    "ced": [
+      "教育学院",
+      "http://www.ced.zju.edu.cn/",
+      "as=486&t=1209&d=4946&p=1&m=SN&"
+    ],
+    "som": [
+      "管理学院",
+      "http://www.som.zju.edu.cn/",
+      "as=976&t=2599&d=11593&p=1&m=SN&"
+    ],
+    "spa": [
+      "公共管理学院",
+      "http://www.spa.zju.edu.cn/spaoffice/",
+      "as=313&t=2937&d=13789&p=1&m=SN&"
+    ],
+    "marx": [
+      "马克思主义学院",
+      "http://marx.zju.edu.cn/",
+      "as=452&t=1053&d=4317&p=1&m=SN&"
+    ],
+    "math": [
+      "数学科学学院",
+      "http://www.math.zju.edu.cn/",
+      "as=212&t=2237&d=9593&p=1&m=SN&"
+    ],
+    "physics": [
+      "物理学院",
+      "http://physics.zju.edu.cn/",
+      "as=1041&t=2755&d=12900&p=1&m=SN&"
+    ],
+    "chem": [
+      "化学系",
+      "http://office.chem.zju.edu.cn/",
+      "as=570&t=2274&d=9744&p=1&m=SN&"
+    ],
+    "gs": [
+      "地球科学学院",
+      "http://gs.zju.edu.cn/",
+      "as=215&t=1541&d=6266&p=1&m=SN&"
+    ],
+    "psych": [
+      "心理与行为科学系",
+      "http://www.psych.zju.edu.cn/",
+      "as=23&t=1217&d=5007&p=1&m=N&"
+    ],
+    "me": [
+      "机械工程学院",
+      "http://me.zju.edu.cn/meoffice/main.htm",
+      "as=106&t=216&d=1276&p=1&m=SN&"
+    ],
+    "mse": [
+      "材料科学与工程学院",
+      "https://mse.zju.edu.cn/",
+      "as=573&t=2031&d=8515&p=1&m=SN&"
+    ],
+    "doeoa": [
+      "能源工程学院",
+      "http://doe-oa.zju.edu.cn/main.htm",
+      "as=470&t=2963&d=14010&p=1&m=SN&"
+    ],
+    "ee": [
+      "电气工程学院",
+      "http://ee.zju.edu.cn/",
+      "as=219&t=1502&d=6021&p=1&m=N&"
+    ],
+    "ccea": [
+      "建筑工程学院",
+      "http://www.ccea.zju.edu.cn/main.htm",
+      "as=120&t=854&d=3531&p=1&m=SN&"
+    ],
+    "che": [
+      "化学工程与生物工程学院",
+      "http://che.cn.zju.edu.cn/",
+      "as=327&t=815&d=3388&p=1&m=SN&"
+    ],
+    "oc": [
+      "海洋学院",
+      "http://oc.zju.edu.cn/",
+      "as=535&t=1351&d=5519&p=1&m=SN&"
+    ],
+    "saa": [
+      "航空航天学院",
+      "http://saa.zju.edu.cn/",
+      "as=1008&t=2704&d=12560&p=1&m=SN&"
+    ],
+    "polymer": [
+      "高分子科学与工程学系",
+      "http://office.polymer.zju.edu.cn/",
+      "as=577&t=2226&d=9572&p=1&m=SN&"
+    ],
+    "opt": [
+      "光电科学与工程学院",
+      "http://opt.zju.edu.cn/",
+      "as=1098&t=2958&d=13966&p=1&m=SN&"
+    ],
+    "isee": [
+      "信息与电子工程学院",
+      "http://www.isee.zju.edu.cn/",
+      "as=411&t=2061&d=8642&p=1&m=SN&"
+    ],
+    "cse": [
+      "控制科学与工程学院",
+      "http://www.cse.zju.edu.cn/",
+      "as=98&t=2845&d=13339&p=1&m=SN&"
+    ],
+    "cspo": [
+      "计算机科学与技术学院",
+      "http://cspo.zju.edu.cn/",
+      "as=484&t=1214&d=4985&p=1&m=SN&"
+    ],
+    "cst": [
+      "软件学院",
+      "http://www.cst.zju.edu.cn/",
+      "as=228&t=1582&d=6385&p=1&m=SN&"
+    ],
+    "cbeis": [
+      "生物医学工程与仪器科学学院",
+      "http://www.cbeis.zju.edu.cn/",
+      "as=975&t=2593&d=11527&p=1&m=SN&"
+    ],
+    "mne": [
+      "集成电路学院",
+      "https://mne.zju.edu.cn/",
+      "as=790&t=2179&d=9294&p=1&m=N&"
+    ],
+    "cls": [
+      "生命科学学院",
+      "http://www.cls.office.zju.edu.cn/",
+      "as=477&t=1172&d=4788&p=1&m=N&"
+    ],
+    "caefs": [
+      "生物系统工程与食品科学学院",
+      "http://www.caefs.zju.edu.cn/",
+      "as=1031&t=2712&d=12621&p=1&m=SN&"
+    ],
+    "hjzy": [
+      "环境与资源学院",
+      "https://webplus.zju.edu.cn/_s312/main.psp",
+      "as=312&t=1706&d=6876&p=1&m=N&"
+    ],
+    "cab": [
+      "农业与生物技术学院",
+      "http://www.cab.zju.edu.cn/bgw/",
+      "as=126&t=1280&d=5256&p=1&m=SN&"
+    ],
+    "cas": [
+      "动物科学学院",
+      "http://www.cas.zju.edu.cn/caschinese/",
+      "as=320&t=824&d=3425&p=1&m=SN&"
+    ],
+    "cmm": [
+      "医学院",
+      "http://www.cmm.zju.edu.cn/",
+      "as=233&t=1663&d=6641&p=1&m=SN&"
+    ],
+    "cps": [
+      "药学院",
+      "http://office.cps.zju.edu.cn/main.htm",
+      "as=287&t=1239&d=5075&p=1&m=SN&"
+    ]
+  }
