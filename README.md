@@ -1,8 +1,6 @@
 # ZJU学院新闻订阅
 自动ZJU抓取新通知发送邮箱
 
-> 可按以下方式本地部署，也可直接订阅[mlab订阅服务](https://proxy.ocmlab.top/zju2024email)
-
 ## 依赖安装
 
 1、[wkhtmltoimage](https://wkhtmltopdf.org/) 网页保存图片/PDF工具
