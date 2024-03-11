@@ -1,5 +1,5 @@
 # 学院新闻订阅
-Automatically send new notification emails
+自动抓去新通知发送邮箱
 
 ## 依赖安装
 
